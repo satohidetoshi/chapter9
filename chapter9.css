@@ -18,7 +18,7 @@ main {
 
 .step-box {
   width: 300px;
-  margin-right: 30px;
+  margin-right:30px;
   padding: 10px;
   position: relative;
   background-color: #eee;
@@ -75,6 +75,8 @@ footer {
    .step-box{
      width: 90%;
      margin-bottom: 20px;
+     margin-left: 5%;
+     margin-right: 5%;
    }
    
    header{
